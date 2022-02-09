@@ -5,9 +5,9 @@
 <br><br>
 **Hello! My name is Prith.**
 <br>
-I am a Software Engineer with experience building websites and web applications. I enjoy building...
+I am a Software Engineer with experience building websites and web applications.
 <br>
-I am very proficient with JavaScript and have experience working with technologies like React, Node.js, and Express. I also have experience in Python, R, and DMBS such as MongoDB, PostgreSQL, and MySQL and have recently learned how to implement authentication middleware such Passport JS. If you are interested in my work, please get in touch!
+I am proficient with JavaScript and related technologies like React, Node.js, and Express. I also have experience in Python, R, and using DMBS' such as MongoDB, PostgreSQL, and MySQL and have recently learned how to implement authentication middleware such Passport JS. If you are interested in my work, please get in touch!
 <br>
 - 📍 Based in San Jose, CA
 - 💬 Ask me about Front-End and Back-End optimization and Formula 1
