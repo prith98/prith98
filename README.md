@@ -46,6 +46,11 @@ I am very proficient with JavaScript and have experience working with technologi
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 <br><br>
+**Visualization Tools**<br>
+<img src="https://img.shields.io/badge/R-4682B4?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-FDA172?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-59BFFF?style=for-the-badge&logo=matplotlib&logoColor=white">
+<br><br>
 **Want to Learn**<br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
